@@ -16,6 +16,6 @@ var daysInAYear = 365;
 var secondsInAYear = secondsInADay * daysInAYear;
 
 // Age in Seconds
-var age = 11;
+var age = 12;
 console.log("My age in seconds is...");
 console.log(age * secondsInAYear);
